@@ -1,0 +1,45 @@
+.container
+{
+    background-image: url("img1.jpg");
+    background-repeat: no-repeat;
+    background-position: right bottom;
+    border:solid 12px red;
+    border-bottom: dashed 20px blue;
+    border-radius: 30px;
+    padding-left:250px;
+    padding-right: 200px;
+    padding-top: 100px;
+    padding-bottom: 150px;
+    margin-left: 250px;
+    margin-right: 200px;
+}
+.he{
+    background-color: blue;
+    color: #fff;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 40px;
+font-style: italic;
+font-weight: bolder;
+text-align: end;
+}
+#qw:active
+{
+    color:red;
+    
+}
+#qw:hover
+{
+    
+    box-shadow:10px 10px green;
+    text-shadow: 2px 2px silver;
+text-align-last:auto;
+direction: ltr;
+    color:blue;
+}
+input[type="text"]
+{
+
+
+height:100px;
+width:100px;
+}

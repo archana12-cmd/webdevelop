@@ -1,0 +1,20 @@
+.container
+{
+    border:solid 20px red;
+    padding-left:350px;
+    padding-top:150px;
+    padding-bottom: 100px;
+    margin-left:250px;
+    margin-right:100px;
+    
+
+}
+p{
+color:blue;
+font-family:Verdana, Geneva, Tahoma, sans-serif;
+font-size: 24px;
+font-style: italic;
+text-align: center;
+font-weight: 600;
+
+}
